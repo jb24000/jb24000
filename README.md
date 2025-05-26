@@ -6,7 +6,7 @@ Solutions Architect
 
 I'm a results-driven professional with 15+ years of experience in financial services, leadership, and systems management. I'm currently pivoting into cloud architecture, combining my strong business acumen with technical skills to design scalable, secure, and cost-optimized cloud solutions.
 
-* 🌍  I'm based in Raleigh, NC, United States
+* 🌍  I'm based in Durham, NC, United States
 * ✉️  You can contact me at [melvinj.bonner@gmail.com](mailto:melvinj.bonner@gmail.com)
 * 🧠  I'm learning Amazon SageMaker, Terraform, PyTorch, and TensorFlow
 * 🤝  I'm open to collaborating on Projects
