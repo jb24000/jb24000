@@ -23,6 +23,14 @@ I'm a results-driven professional with 15+ years of experience in financial serv
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/terraform.svg" width="36" height="36" alt="Terraform" /></a>
   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"><img src="assets/icons/Lambda.png" width="36" height="36" alt="AWS Lambda" /></a>
+
+<p align="left">
+  <!-- existing icons... -->
+  <a href="https://aws.amazon.com/eks/" target="_blank" rel="noreferrer"><img src="assets/icons/eks.png" alt="Amazon EKS" width="36" height="36" /></a>
+  <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank" rel="noreferrer"><img src="assets/icons/elastic-beanstalk.png" alt="AWS Elastic Beanstalk" width="36" height="36" /></a>
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer"><img src="assets/icons/cloudformation.png" alt="AWS CloudFormation" width="36" height="36" /></a>
+  <a href="https://aws.amazon.com/cloudfront/" target="_blank" rel="noreferrer"><img src="assets/icons/cloudfront.png" alt="Amazon CloudFront" width="36" height="36" /></a>
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"><img src="assets/icons/api-gateway.png" alt="Amazon API Gateway" width="36" height="36" /></a>
 </p>
 
 ### Socials
