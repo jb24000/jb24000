@@ -29,7 +29,7 @@ I'm a results-driven professional with 15+ years of experience in financial serv
   <a href="https://aws.amazon.com/eks/" target="_blank" rel="noreferrer"><img src="assets/icons/ElasticKubernetesService.png" alt="Amazon EKS" width="36" height="36" /></a>
   <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank" rel="noreferrer"><img src="assets/icons/ElasticBeanstalk.png" alt="AWS Elastic Beanstalk" width="36" height="36" /></a>
   <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer"><img src="assets/icons/CloudFormation.png" alt="AWS CloudFormation" width="36" height="36" /></a>
-  <a href="https://aws.amazon.com/cloudfront/" target="_blank" rel="noreferrer"><img src="assets/icons/cloudfront.png" alt="Amazon CloudFront" width="36" height="36" /></a>
+  <a href="https://aws.amazon.com/cloudfront/" target="_blank" rel="noreferrer"><img src="assets/icons/CloudFront.png" alt="Amazon CloudFront" width="36" height="36" /></a>
   <a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"><img src="assets/icons/api-gateway.png" alt="Amazon API Gateway" width="36" height="36" /></a>
 </p>
 
